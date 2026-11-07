@@ -1,0 +1,6 @@
+deps-armv7l/
+*.o
+sugarmaker
+sugarmaker-static
+testdriver
+sugarmaker.tar.gz
